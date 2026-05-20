@@ -1,4 +1,4 @@
-const WHATSAPP_NUMBER = '216XXXXXXXX';
+const WHATSAPP_NUMBER = '62' + '81234586863';
 
 function messageFromForm() {
   const get = (id) => document.getElementById(id)?.value?.trim() || '';
